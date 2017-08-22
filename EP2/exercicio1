@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<meta charset="UTF-8">
+<meta name="author" content="Evandro Ferraz Moreira - RA: 1700553"> 
+<meta name="author" content="Gabriel Alves Pereira - RA: 1700547">
+<html> 
+<title> Exercicio 1 </title>
+<p> 1. Fechar contrato.</p>
+<p> 2. Análise de sistema.</p>
+	<ul>
+		<p>
+			1.	Avaliação da empresa.
+		</p>
+			<ul>
+				<p>
+					1. Entrevista com funcionários.
+				</p>
+				<p>
+					2. Pesquisa de documentação da empresa.
+				</p>
+			</ul>
+		<p>
+			 2. Programação.
+		</p>
+		<p>
+			3. Aprovação do projeto.
+		</p>
+	</ul>
+<p> 3. Treinamento dos usuários.</p>
+</html>
